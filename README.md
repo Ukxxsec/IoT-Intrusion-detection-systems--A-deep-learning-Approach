@@ -27,13 +27,14 @@ Prepare the Environment:
 Open the downloaded folder in Visual Studio Code.
 Run the App.py file
 Open a new terminal in VS Code and set up a virtual environment with the following commands:
-Copy code
+
 python -m venv venv
+
 venv\Scripts\activate
-Run the Web App:
+
+pip install -r requirements.txt
 
 Start the application by entering:
-Copy code
 python app.py
 Upon successfully running the command, an IP address will be displayed in the terminal.
 Access the Web App:
