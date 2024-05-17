@@ -40,7 +40,7 @@ Access the Web App:
 
 Copy and paste the provided IP address into your browser to view and interact with the web application. The app should display form fields for interacting with the model.
 
-Copy the Parameters for the webapp from this dataset csv file, fill out each field in the webapp form and submit to get the result of the test.
+Copy the Parameters for the webapp from this dataset csv file in the  https://drive.google.com/drive/folders/1V9MaGrbpLkubg4MPtF0lejHW34unfrWv, fill out each field in the webapp form and submit to get the result of the test.
 
 Contributing
 
